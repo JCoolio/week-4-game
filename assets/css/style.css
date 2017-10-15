@@ -1,0 +1,33 @@
+
+html {
+	background-image: url(../images/bg.png
+	);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+body{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
+
+#instructions {
+	font-size: 24px
+	color: white;
+}
+
+p{
+	color: white;
+}
+img{
+	width: 150px;
+	height: 150px;
+	margin: 10px 0px 10px 0px;
+	position: relative;
+  bottom: 0;
+  right: 0;
+}
